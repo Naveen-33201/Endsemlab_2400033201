@@ -1,0 +1,26 @@
+commits
+
+1.initialize git repository
+git init
+git add .
+git remote add origin https://github.com/Naveen-33201/Endsemlab_2400033201.git
+git branch -M main
+git branch -M main
+
+2. all commits
+git add index.html
+git add style.css
+git commit -m "Initial commit: Added HTML and CSS base files"
+
+after editing index.html
+git add index.html
+git commit -m "Added introduction paragraph to HTML"
+
+after editing css.html
+git add style.css
+git commit -m "Enhanced styling: Added colors and fonts"
+
+
+3.
+git log 
+it is used to show the information about all the commits done in the project'
